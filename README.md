@@ -1,2 +1,2 @@
 # MatlabPortfolio
-Some xample programs written in Matlab
+Some example programs written in Matlab
